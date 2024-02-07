@@ -17,6 +17,13 @@
       directories = [
         ".local/share/zoxide"
         "Downloads"
+	"Documents"
+	"Music"
+	"nixos-config"
+	"Pictures"
+	"Public"
+	"Templates"
+	"Videos"
       ];
       files = [
         ".bash_history"
